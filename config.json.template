@@ -1,0 +1,13 @@
+{
+    "port": "8080",
+    "projects": [
+        {
+            "name": "Project 1",
+            "apikey": "api_key_1"
+        },
+        {
+            "name": "Project 2",
+            "apikey": "api_key_2"
+        }
+    ]
+}
